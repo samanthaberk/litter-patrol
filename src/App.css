@@ -29,6 +29,10 @@ body {
   height: 120px;
 }
 
+.empty {
+  display: none;
+}
+
 .overall-data {
   color: #FEFAE0;
 }
